@@ -39,15 +39,6 @@ Welcome to KorattySec Aluguard!
 - **Custom Wordlist Maker**: Generate custom wordlists for password cracking  
 - **Sniffing**: Capture and analyze network traffic 
 
-vulnerability scanning
-
-port scanning 
-
-information gathering
-
-custom wordlist maker
-
-sniffing
 
 
 
