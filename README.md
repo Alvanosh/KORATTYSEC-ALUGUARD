@@ -20,7 +20,7 @@ sniffing
 
 ###***KALI INSTALL***###
 
-git clone https://github.com/Alvanosh/Alvanosh.git
+git clone https://github.com/Alvanosh/KORATTYSEC-ALUGAURD.git
 
 cd KORATTYSEC-ALUGAURD
 
