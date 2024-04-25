@@ -1,4 +1,4 @@
-# KORATTYSEC-ALUGAURD
+# KORATTYSEC-ALUGUARD
 <p align="center">
   <img src="https://example.com/logo.png" alt="KorattySec Aluguard Logo" width="200">
 </p>
