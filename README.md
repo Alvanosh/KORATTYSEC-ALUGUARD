@@ -65,6 +65,8 @@ pip install paramiko
 
 pip install python-whois
 
+pip install figlet
+
 
 
 
