@@ -33,39 +33,7 @@ python Main.py
 
 ###***PACKAGES***###
 
-sudo apt update
-
-sudo apt upgrade
-
-pip install python
-
-pip install scapy
-
-pip install PyQt5
-
-pip install colorama
-
-pip install pyfiglet
-
-sudo apt-get install  python
-
-sudo apt-get update
-
-sudo apt-get install nmap
-
-pip install requests
-
-pip install whois
-
-pip install python-nmap
-
-pip install beautifulsoup4
-
-pip install paramiko
-
-pip install python-whois
-
-
+```sudo apt update && sudo apt upgrade && sudo apt-get install python && sudo apt-get update && sudo apt-get install nmap && pip install python scapy PyQt5 colorama pyfiglet requests whois python-nmap beautifulsoup4 paramiko python-whois```
 
 
 
