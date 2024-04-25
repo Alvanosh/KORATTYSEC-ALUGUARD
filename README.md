@@ -24,13 +24,20 @@ Welcome to KorattySec Aluguard!
 
 
 <p align="center">
-  <img src="https://example.com/logo.png" alt="KorattySec Aluguard Logo" width="200">
+  <img src="https://example.com/logo.png" alt="KorattySec Aluguard Logo" width="300">
 </p>
 <h1 align="center">FEACTURES🚀</h1>
 <p align="center">
   [Brief description of the tool]
 </p>
 
+### Specifications
+
+- **Vulnerability Scanning**: Conduct vulnerability assessments  
+- **Port Scanning**: Identify open ports and services  
+- **Information Gathering**: Gather information about target systemS 
+- **Custom Wordlist Maker**: Generate custom wordlists for password cracking  
+- **Sniffing**: Capture and analyze network traffic 
 
 vulnerability scanning
 
