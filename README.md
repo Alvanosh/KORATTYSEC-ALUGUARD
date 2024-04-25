@@ -12,3 +12,39 @@ information gathering
 custom wordlist maker
 
 sniffing
+
+
+
+####RUN AS ROOT####
+
+
+***KALI INSTALL***
+git clone https://github.com/Alvanosh/Alvanosh.git
+cd KORATTYSEC-ALUGAURD
+ls
+python Main.py
+
+
+
+***PACKAGES***
+sudo apt update
+sudo apt upgrade
+pip install python
+pip install scapy
+pip install PyQt5
+pip install colorama
+pip install pyfiglet
+sudo apt-get install  python
+sudo apt-get update
+sudo apt-get install nmap
+pip install requests
+pip install whois
+pip install python-nmap
+pip install beautifulsoup4
+pip install paramiko
+pip install python-whois
+
+
+
+
+
