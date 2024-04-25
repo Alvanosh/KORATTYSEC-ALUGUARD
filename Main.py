@@ -6,7 +6,7 @@ import wireshark
 import pyfiglet
 
 from colorama import Fore
-styled_text=pyfiglet.figlet_format('KORATTYSEC ALUGUARD',font= 'doom')
+styled_text=pyfiglet.figlet_format('KORATTYSEC ALUGUARD')
 print(Fore.RED + styled_text)
 a = input("Enter the 1 for Osint\n2 for Vulnerablibility Check\n3 for password Word List generation\n4 for packet sniffer")
 if a == "3":
